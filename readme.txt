@@ -6,3 +6,4 @@ aaaaaa
 create a new branch
 create a new branch is quick AND simple
 test fast forward
+bbbbb
