@@ -1,1 +1,4 @@
 B want to add
+A add new line
+A still
+
